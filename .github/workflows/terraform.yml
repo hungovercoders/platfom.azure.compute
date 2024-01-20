@@ -3,10 +3,10 @@ name: 'terraform'
 on:
   push:
     branches:
-      - default_branch_goes_here
+      - main
   pull_request:
     branches:
-      - default_branch_goes_here
+      - main
   workflow_dispatch:
 
 jobs:
