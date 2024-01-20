@@ -14,7 +14,7 @@ This project deploys platform azure infrastructure for compute resources for hun
 
 ## Getting Started
 
-1. Open the repository in gitpod. 
+1. Open the repository in gitpod.
 2. Note the terminals on the right hand side
    * Versions: Will show you the versions of the tools installed
    * Azure CLI: Will show you the installation of the Azure CLI
